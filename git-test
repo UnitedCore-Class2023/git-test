@@ -8,3 +8,4 @@ git add .
 git commit -m "comments"
 git remote add origin https://github.com/UnitedCore-Class2023/Deploy.java.git
 git push -u origin master
+echo "commit message updated"
