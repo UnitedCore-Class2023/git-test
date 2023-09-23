@@ -1,0 +1,10 @@
+reate a directory called class2023
+$ mkdir class2023
+$ cd class2023
+$ touch / vi git-note
+git init 
+git status
+git add . 
+git commit -m "comments"
+git remote add origin https://github.com/UnitedCore-Class2023/Deploy.java.git
+git push -u origin master
